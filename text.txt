@@ -1,0 +1,4 @@
+my-site/
+├── index.html        # 首页，必须存在
+├── style.css         # 可选
+└── script.js         # 可选
